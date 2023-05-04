@@ -12,6 +12,9 @@
 	<artifactId>project</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>project</name>
+	<properties>
+		<java.version>11</java.version>
+	</properties>
 	<description>PAO project for Spring Boot</description>
 	<dependencies>
 		<dependency>
